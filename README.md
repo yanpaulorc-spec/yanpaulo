@@ -1,7 +1,11 @@
 <h1 align="center">👨‍💻 Yan Paulo</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,androidstudio,apple" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,androidstudio" />
+  
+  <br><br>
+
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
