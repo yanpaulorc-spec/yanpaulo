@@ -10,7 +10,7 @@
 
 🎓 Engenheiro de Computação  
 
-📱 Desenvolvedor especializado em Flutter e aplicações mobile multiplataforma  
+📱 Desenvolvedor Mobile especializado em Flutter e aplicações multiplataforma, criando experiências modernas, rápidas e intuitivas.
 
 ⚙️ Experiência com:
 - Firebase
@@ -21,7 +21,16 @@
 - Arquitetura mobile
 - Integrações backend
 
-🧠 Focado em performance, experiência do usuário e desenvolvimento de aplicações escaláveis.
+🧠 Busco constantemente desafios que me façam evoluir como desenvolvedor, principalmente em performance, experiência do usuário e soluções criativas para aplicações mobile.
+
+🎬 Fora do código, gosto bastante de:
+- Filmes e séries
+- Futebol
+- NBA
+- Tecnologia
+- Explorar novas ferramentas e tendências do mundo mobile
+
+🚀 Apaixonado por transformar ideias em aplicativos reais que entregam valor e boa experiência para as pessoas.
 
 ---
 
