@@ -9,7 +9,13 @@ Criando experiências mobile modernas, rápidas e intuitivas.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,java,kotlin,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,androidstudio" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
@@ -78,7 +84,13 @@ Aplicativo desenvolvido para organização de partidas e confirmação de jogado
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,java,kotlin,nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,androidstudio" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 </p>
 
