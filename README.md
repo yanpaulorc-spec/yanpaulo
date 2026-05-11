@@ -66,33 +66,6 @@ Aplicativo desenvolvido para organização de partidas e confirmação de jogado
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,androidstudio" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanpaulorc-spec&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanpaulorc-spec&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🌎 Contato
 
