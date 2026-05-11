@@ -73,8 +73,20 @@ Aplicativo desenvolvido para organização de partidas e confirmação de jogado
 - Organização de partidas
 - Interface rápida e intuitiva
 
----
+# 🧪 Outros Projetos
 
+## 🤖 PST Bot
+
+Bot para Discord desenvolvido com foco em automações, comandos personalizados e sistema de interação em tempo real.
+
+### ✨ Funcionalidades
+- Sistema de ranking
+- Comandos personalizados
+- Integração com Discord API
+- Controle administrativo
+- Eventos automatizados
+
+---
 
 # 🌎 Contato
 
